@@ -94,6 +94,7 @@ print('Root Mean Squared Error (RMSE) =', rmse)
 ```
 
 ## Output:
+```
    Hours  Scores
 0    2.5      21
 1    5.1      47
@@ -112,7 +113,7 @@ Predicted values:
  20.91914167 78.09382734 69.37226512]
 Actual values:
 [20 27 69 30 62 35 24 86 76]
-
+```
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
